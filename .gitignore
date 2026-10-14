@@ -2,3 +2,4 @@ myenv/
 pycache/
 *.py[cod]
 .env
+git
